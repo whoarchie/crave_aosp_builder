@@ -1,8 +1,8 @@
 {
-  "username": "${CRAVE_USERNAME}",
+  "username": "chikatez.id@gmail.com",
   "headers": {
     "Content-Type": "application/json",
-    "Authorization": "${CRAVE_TOKEN}",
+    "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIxNCwidGVhbUlkIjoxNCwiaXNBcGlLZXkiOnRydWUsImlhdCI6MTcxNTk0NzEwOX0.rHH591Sp4cU0QG3CFY8NMG6nAPT-nQ2ISqUS0Fxf2jA",
     "User-Agent": "Crave"
   },
   "projects": [],
